@@ -1,0 +1,28 @@
+* {
+   color: rgb(255, 179, 160);
+   text-align: center;
+   background: rgb(24, 24, 24);
+}
+
+p {
+   margin: 40px;
+}
+
+.start {
+   border: none;
+   background: none;
+   cursor: pointer;
+   margin-top: 30px;
+}
+
+.logo {
+   display: block;  
+   width: 800px; 
+   margin: 0 auto;
+}
+
+.photo {
+   display: block;  
+   width: 350px; 
+   margin: 0px auto;
+}
